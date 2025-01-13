@@ -4,4 +4,12 @@ public class SomeClass {
     public SomeClass(int num) {
         this.num = num;
     }
+
+    public void hello() {
+        System.out.println("Hello, whats up");
+    }
+
+    public void partner2Method() {
+        System.out.println("yippee");
+    }
 }
