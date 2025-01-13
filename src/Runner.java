@@ -3,6 +3,6 @@ public class Runner {
         System.out.println("merge conflict");
         System.out.print("this is the other partner adding some code");
         System.out.println("what's up");
-        System.out.println("not much!");
+        System.out.println("Partner 2 is changing this line");
     }
 }
