@@ -9,6 +9,10 @@ public class SomeClass {
         System.out.println("Hello, whats up");
     }
 
+    public void partner1Method() {
+        System.out.println("yay");
+    }
+
     public void partner2Method() {
         System.out.println("yippee");
     }
